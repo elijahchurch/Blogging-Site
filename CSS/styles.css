@@ -1,0 +1,14 @@
+.school {
+    font-style: italic;
+    color: chartreuse;
+}
+
+.people {
+    size: 80%;
+}
+
+.fav {
+    border-color: blueviolet;
+    border-width: 2px;
+    border-style: dashed;
+}
