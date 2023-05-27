@@ -3,10 +3,15 @@ body {
     background-color: lightblue;
 }
 
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-block: auto;
+}
 
 .school {
-    font-style: italic;
-    color: chartreuse;
+    font-style:oblique;
+    color: rgb(235, 152, 28);
 }
 
 
@@ -18,5 +23,5 @@ body {
 }
 
 .suv {
-    width: 35%
+    width: 30%
 }
