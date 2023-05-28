@@ -10,6 +10,10 @@ ul {
     margin-block: auto;
 }
 
+h5{
+    text-decoration: underline;
+}
+
 .school {
     font-style:oblique;
     color: rgb(235, 152, 28);
@@ -29,4 +33,12 @@ ul {
 
 .final5 {
     text-decoration: underline;
+}
+
+#About {
+    border-style: solid;
+    width: 30%;
+    border-radius: 5px;
+    margin: 10px;
+    float: right;
 }
